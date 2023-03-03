@@ -3,6 +3,7 @@ import java.util.Comparator;
 import java.util.Random;
 import java.util.Scanner;
 
+// 1. Упорядочить строки (столбцы) матрицы в порядке возрастания значений элементов k-го столбца (строки).
 public class Main {
     public static void Print(int[][] matrix) {
         for (int[] ints : matrix) {
@@ -21,7 +22,7 @@ public class Main {
         }
         Print(matrix);
 
-        System.out.println("Enter k> ");
+        System.out.print("Enter k> ");
         int k = s.nextInt();
 
         System.out.print("Lines or columns?> ");

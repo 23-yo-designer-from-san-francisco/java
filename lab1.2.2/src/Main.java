@@ -1,5 +1,6 @@
 import java.util.*;
 
+// 2. Наибольшее и наименьшее число.
 public class Main {
     public static void main(String[] args) {
         System.out.print("Enter n> ");

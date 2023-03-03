@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
+// 2. Ввести n строк с консоли. Упорядочить и вывести строки в порядке возрастания (убывания) значений их длины.
 public class Main {
     public static void main(String[] args) {
         System.out.print("Enter n> ");

@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+//1. Четные и нечетные числа.
 public class Main {
     public static void main(String[] args) {
         System.out.print("Enter n> ");
